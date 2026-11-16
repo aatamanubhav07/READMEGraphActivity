@@ -14,3 +14,6 @@ Open this folder in Visual Studio Code.
 - Aatam Anubhav Kawatra
 ## Future Improvement
 Add screenshots and installation instructions in a future update.
+
+## Collaboration practice
+this is for collaboration practice
